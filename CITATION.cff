@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+title: "Nanoporous Nanoparticles for Drug Delivery — In Silico Meta-Analysis"
+message: "If you use this dataset or code, please cite the repository and the original review."
+version: "0.1.0"
+date-released: 2026-11-21
+authors:
+  - family-names: "Mirza"
+    given-names: "Summaiya"
+license: CC-BY-4.0
+repository: "https://github.com/SummaiyaBegum/nanoporous-drug-delivery-insilico"
+references:
+  - type: journal
+    authors:
+      - family-names: "Ahmed"
+        given-names: "Sumeer"
+      - family-names: "Mujahid"
+        given-names: "Mohd Hasan"
+      - family-names: "Kour"
+        given-names: "Mandeep"
+      - family-names: "Fatima"
+        given-names: "Shaista"
+      - family-names: "Ahamad"
+        given-names: "Salaman"
+      - family-names: "Mishra"
+        given-names: "Saurav Kumar"
+      - family-names: "Bhat"
+        given-names: "Ajmal R."
+      - family-names: "Abu-Rayyan"
+        given-names: "Ahmed"
+      - family-names: "Tebeje"
+        given-names: "Birhanu Ayalew"
+    title: "Molecular design and therapeutic applications of polymeric nanoparticles for drug delivery: A comprehensive review"
+    journal: "Results in Chemistry"
+    volume: 28
+    year: 2026
+    doi: "10.1016/j.rechem.2026.103459"
+    start: 103459
