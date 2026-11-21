@@ -27,20 +27,22 @@ docs/               # Data dictionary and attribution notes
 
 ## How to run
 
+On this machine the bare `python` command resolves to an old Python 2.7 (MGLTools) that can't run these scripts. Use the Python 3 launcher instead (`py -3`), or install Python 3 and use `python`.
+
 Prerequisites: Python 3 with `pandas` and `matplotlib`:
 
 ```bash
-pip install -r requirements.txt
+py -3 -m pip install -r requirements.txt
 ```
 
 ```bash
-# 1. Extract candidates from the review text
-python -I src/extract_nanoporous.py C:\path\to\paper.txt data/raw/nanoporous_candidates.csv
+# Run from the repo root
+py -3 -I src/extract_nanoporous.py C:\path\to\paper.txt data/raw/nanoporous_candidates.csv
 
 # 2. Manually curate: data/raw/*.csv -> data/processed/nanoporous_curated.csv
 
 # 3. Run exploratory analysis (regenerates results/figures/*.png)
-python -I notebooks/01_nanoporous_meta_analysis.py
+py -3 -I notebooks/01_nanoporous_meta_analysis.py
 ```
 
 ## License
