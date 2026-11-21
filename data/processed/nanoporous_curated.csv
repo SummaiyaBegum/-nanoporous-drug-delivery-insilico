@@ -1,0 +1,11 @@
+material_type,drug_cargo,encapsulation_efficiency_pct,particle_size_nm,release_pct,release_time_h,stimuli_trigger,disease_target,reference_in_review,notes
+mesoporous silica,anti-inflammatory drug,,,,,oral pH,oral drug delivery,[60],"Lee et al. - positive-charge functionalized mesoporous silica nanoparticles for oral drug delivery (Adv. Funct. Mater. 2008)"
+mesoporous Fe3O4@SiO2,imatinib,,,,,pH/magnetic dual-sensitive,imatinib delivery,[80],"Aslehashemi et al. - magnetic/pH dual-sensitive nanocarrier for imatinib delivery (2008)"
+porous PAM/CNT nanocomposite,doxorubicin (DOX),,,5.5,,pH 5.5,MCF-7 cancer cells,[57],"Yaghoubi et al. - biocompatible porous PAM/CNT nanocomposite hydrogel films for sustained DOX release (Sci. Rep. 2025)"
+porous polymer 3D network,sulfasalazine,,,,,pH 7.4,bowel diseases,[53],"Stimuli-responsive polymer-based 3D network; porous structure enables anionic medicine loading"
+porous chitosan/CMC/halloysite hydrogel,curcumin (CUR),87,,96,96,pH 5.4,MCF-7 breast cancer,[62],"Pourmadadi et al. - pH-sensitive nanocomposite hydrogel (HNT + PAA + CMC); 87% encapsulation efficiency, 45% drug loading, 96% release at pH 5.4 over 96 h"
+mesoporous silica (general),,,,,,2-50 nm pore size range,mesoporous materials,general,"Typical mesoporous pore diameter range for drug loading"
+porous PLGA,paclitaxel (PTX),,,,,28 days,in vitro degradation,[38],"Ramirez et al. - nanoprecipitation with PVA/PVA-SDS stabilizers; 28-day in vitro degradation and release study"
+porous PLGA (emulsion/solvent-evaporation),regulated drug release,93.2,,,,polymeric nanoparticle formulation,general,"Encapsulation efficiency 93.2% and drug loading 7.2% reported as advantages of emulsion/suspension/precipitation synthesis"
+porous protein/albumin nanoparticles,paclitaxel (PTX),,,130,,,metastatic pancreatic adenocarcinoma,[207],"Albumin nanoparticles bound to paclitaxel (Abraxane-like); particle size about 130 nm; uses albumin as carrier rather than synthetic polymer"
+magnetic Fe3O4 nanocarrier,imatinib mesylate (IMT),,,,,pH-dependent,magnetic drug delivery,[73],"Ebadi et al. - high drug loading capacity 116.2 mg/g; release 96% at pH 5.6 and 55% at higher pH (iron oxide nanoparticles for drug delivery)"

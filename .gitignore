@@ -16,6 +16,8 @@ Thumbs.db
 data/raw/*.csv
 !data/raw/.gitkeep
 data/processed/*.csv
+# Curated dataset is hand-maintained and tracked
+!data/processed/nanoporous_curated.csv
 !data/processed/.gitkeep
 
 # Results
