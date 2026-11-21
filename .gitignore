@@ -20,10 +20,8 @@ data/processed/*.csv
 !data/processed/nanoporous_curated.csv
 !data/processed/.gitkeep
 
-# Results
-results/figures/*.png
-results/figures/*.svg
-!results/figures/.gitkeep
+# Results (tracked so figures show on GitHub)
+!results/figures/
 
 # Jupyter
 *.ipynb
